@@ -224,14 +224,11 @@ weeks:
         - Add a [Code of Conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) to your repository as a file called `CODE_OF_CONDUCT.md`
         - Check the [Friendly GitHub Intro](https://kirstiejane.github.io/friendly-github-intro/)
       resources:
-      - link: https://docs.google.com/presentation/d/1JX7IBxHBlMBd5xf3Qxu-ZbInqgIXA-Y0eulHJiv5dA0/edit?usp=sharing
-        type: slides
+      - type: slides
         title: Open Licensing
-      - link: https://docs.google.com/presentation/d/1CYTTEzAzSLUOR6-dwBfhZc5a753OJ2wfu2EXJvXBPkY/edit?usp=sharing
-        type: slides
+      - type: slides
         title: README
-      - link: https://docs.google.com/presentation/d/1ko91U3CXbuFd3hiXRtrLxVtNcoMQgzvhAVeKId0dFZc/edit?usp=sharing
-        type: slides
+      - type: slides
         title: Contributing Guidelines and Code of Conduct
       hosts:
       - emmyft
@@ -270,8 +267,7 @@ weeks:
         - Comment of 1-2 project's recent post (vision, open canvas etc.)
         - Create your 'project issue' as described [here](https://www.youtube.com/watch?v=UG5TAIU6IVM)
       resources:
-      - link: https://docs.google.com/presentation/d/1qymN0F-kToQfFIPjXOrXe7lHPy_UB0Buew2kAI1WfWg/edit?usp=sharing
-        type: slides
+      - type: slides
         title: Introduction to GitHub
     - date: March 29, 2023
       time: "13:00"
@@ -357,17 +353,13 @@ weeks:
         \ assignment\n- Think through community interactions\n- Complete the midterm\
         \ survey\n      \n        "
       resources:
-      - link: https://docs.google.com/presentation/d/e/2PACX-1vQBX5k9RiqQdh9Vjt4O07dUVKku4qI8UyE7Bhy9i0iJpEJETq4KbHeFhHmbv1IM5I0Z1qK-NQLlqNfX/pub?start=false&loop=false&delayms=3000
-        type: slides
+      - type: slides
         title: Using Personas and Pathways to Build Community
-      - link: https://docs.google.com/presentation/d/1-yxiApKB96HIeyLGl7m7uyNjcHW74VP-XV457B-Euw4/edit#slide=id.g459038e743_0_73
-        type: slides
+      - type: slides
         title: Mountain of Engagement
-      - link: https://docs.google.com/presentation/d/1s0uV2klFu8RyTCfpWIqL0lUjYlk6u_vx92v48nk-TU8/edit#slide=id.g6e991a6896_0_209
-        type: slides
+      - type: slides
         title: Mentored contributions
-      - link: https://docs.google.com/presentation/d/1z8rPZbaxJCQaRvNMhy72sfq6xJcf9RSturrPQtugLGU/edit#slide=id.g6e991a6896_0_209
-        type: slides
+      - type: slides
         title: Community interactions
     - date: April 19, 2023
       time: "13:00"
@@ -453,12 +445,9 @@ weeks:
         - Look up two other projects and comment on [their issue](https://github.com/open-life-science/ols-4/issues)\
         \ with feedback on their project"
       resources:
-      - link: https://docs.google.com/presentation/d/18g_OfcwiUmX-vZnshM0mfs8xutOkeF3iA-RSaTpJs0Y/edit#slide=id.g7e28a7e96f_0_0
-        type: slides
-      - link: https://docs.google.com/presentation/d/1lrodEXOSuh_01-EuLOi5hyZmDJ7xJBQaQ4iF3Ylvlyo/edit?usp=sharing
-        type: slides
-      - link: https://zenodo.org/record/4651431
-        type: slides
+      - type: slides
+      - type: slides
+      - type: slides
       - type: slides
   '11':
     start: May 08, 2023
@@ -476,13 +465,11 @@ weeks:
       - yochannah
       type: Skill-up
       resources:
-      - link: https://drive.google.com/file/d/1w8AUnsbwSpqfEK0YxKmSZGIeIlEbppSN/view?usp=share_link
-        type: slides
+      - type: slides
         title: Code style, testing
       - type: slides
         title: Code-review
-      - link: https://docs.google.com/presentation/d/12hqzyIdYqSKnFokcTT2i8QhO74vcx7OkluUdiRd_ah8/edit?usp=share_link
-        type: slides
+      - type: slides
         title: Package management
     - date: May 10, 2023
       time: "13:00"
@@ -548,8 +535,7 @@ weeks:
         \ that frustrate you - avoid them.\n      \n      \n        \n      \n   \
         \     "
       resources:
-      - link: https://docs.google.com/presentation/d/1lL8XQlP_lpqEbjGOhnivXq9oiAgVNCq164qntp-2Wp4/edit#slide=id.g70ef43ea53_0_132
-        type: slides
+      - type: slides
         title: Personal Ecology and Self Care
     - date: May 24, 2023
       time: "13:00"
@@ -580,12 +566,10 @@ weeks:
       after: '- Think about and plan to apply FAIR principles to your project in your
         own time'
       resources:
-      - link: https://drive.google.com/file/d/1Xofpeq6TUGKVhJRounufGnW62q_lewP6/view?usp=sharing
-        type: slides
+      - type: slides
         title: 'Inclusion is not an afterthought or (Unconscious bias: Does it really
           matter?)'
-      - link: https://docs.google.com/presentation/d/1aIdwn5Jc1OM5gW9h6GW69ZIDNA7W3s9806-i1gzhNp8/edit?usp=sharing
-        type: slides
+      - type: slides
         title: Ally skills - Optional
   '15':
     start: June 05, 2023
